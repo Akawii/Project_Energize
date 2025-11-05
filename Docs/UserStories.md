@@ -1,4 +1,4 @@
-# User Stories - Bike Storage Application
+# User Stories
 
 ---
 
