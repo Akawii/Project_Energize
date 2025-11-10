@@ -42,8 +42,7 @@ The system enables users to easily **reserve, access, and pay** for bike lockers
 ---
 
 ## Programming Languages / Applications to be Used
-- **Outsystems**  
-- **C#**  
-- **SQL**  
-- **HTML**  
+- **Arduino IDE / Visual Studio Code (Platform.IO)**  
 - **Unity**
+- **P5.js**  
+- **SQL / Firebase**  
