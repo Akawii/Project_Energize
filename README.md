@@ -16,12 +16,6 @@
       </a><br>
       <sub><b>Muhammad Sidat</b></sub>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/CalebIADE">
-        <img src="https://github.com/CalebIADE.png" width="100" height="100" style="border-radius:50%;" alt="CalebIADE">
-      </a><br>
-      <sub><b>Caleb Okeke</b></sub>
-    </td>
   </tr>
 </table>
 
